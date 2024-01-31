@@ -1,7 +1,7 @@
 # projeto_new_world
-Boas vindas!
+## Boas vindas!
 Estou empolgado em compartilhar o progresso do meu mais recente projeto: um site de viagens ambientado no fascinante mundo de One Piece, intitulado "New World"! 🏴‍☠️⚓️
-Que está sendo desenvolvido por mim e meu amigo Gabriel Lourenço.
+Que está sendo desenvolvido por mim e meu amigo **Gabriel Lourenço** - ***https://github.com/Gabriel-Oliviera42***
 
 Frontend: Imagine o Novo Mundo como se fosse um grande quadro de arte digital feito com HTML, CSS e JavaScript - é o coração pulsante do nosso site! Cada página é como um pedaço da Grand Line, tudo feito com carinho para proporcionar uma vibe incrível. Estamos falando de experiência visual de primeira, para você se sentir parte da tripulação! E tudo isso está sendo implementado pelo Gabriel Lourenço, que aliás está desenvolvendo um trabalho incrível!
 
