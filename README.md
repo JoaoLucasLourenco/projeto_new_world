@@ -10,8 +10,5 @@ Backend: Aqui, entramos no universo Node.js! Desenvolvi uma camada de backend t�
 Sistema de Multilinguagem:
 Um recurso exclusivo que implementei é o sistema de mudança de idioma, permitindo que os usuários explorem o Novo Mundo em diferentes línguas. Isso é alcançado através de requisições do frontend para o backend, onde arquivos JSON são usados para armazenar as traduções. Uma maneira interativa e flexível de tornar o site acessível para um público global! 🌐🗺️
 Todas as requisições são descritas pelo console do servidor a fim de achar possíveis erros e onde eles estão acontecendo. 
-Junte-se à Tripulação:
-Estou sempre em busca de feedback e sugestões! Se você ama o universo de One Piece e está interessado em tecnologia web, ficarei feliz em receber sua opinião sobre o projeto. Juntos, podemos fazer do "New World" um destino imperdível para todos os entusiastas de viagens e fãs de One Piece!
-Agradeço a todos que acompanharam essa jornada até agora. Mal posso esperar para compartilhar mais novidades em breve. ⛵️✨
-hashtag#NewWorld hashtag#WebDevelopment hashtag#OnePiece hashtag#Viagens hashtag#Frontend hashtag#Backend hashtag#NodeJS hashtag#JSON
- 
+
+Tem alguma sugestão? Me mande um email ***jao.lucas.lourenco@gmail.com***
